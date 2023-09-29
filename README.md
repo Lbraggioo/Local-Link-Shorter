@@ -1,2 +1,2 @@
 # Local-Link-Shorter
-A fully functionalway to enshorter your links locally
+A fully functional way to enshorter your links locally
